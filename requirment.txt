@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-core>=0.1.0
+langchain_huggingface
+huggingface_hub
+python-dotenv
